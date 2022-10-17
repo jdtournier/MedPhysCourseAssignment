@@ -14,15 +14,15 @@ with hypertension - they may both be part of "Syndrome X". The 403 subjects were
 ones who were actually screened for diabetes. Glycosolated hemoglobin > 7.0 is usually
 taken as a positive diagnosis of diabetes. For more information about this study see
 
-Willems JP, Saunders JT, DE Hunt, JB Schorling: Prevalence of coronary heart disease
+[Willems JP, Saunders JT, DE Hunt, JB Schorling: Prevalence of coronary heart disease
 risk factors among rural blacks: A community-based study. Southern Medical Journal
-90:814-820; 1997
+90:814-820; 1997](https://pubmed.ncbi.nlm.nih.gov/9258308/)
 
 and
 
-Schorling JB, Roach J, Siegel M, Baturka N, Hunt DE, Guterbock TM, Stewart HL: A
+[Schorling JB, Roach J, Siegel M, Baturka N, Hunt DE, Guterbock TM, Stewart HL: A
 trial of church-based smoking cessation interventions for rural African Americans.
-Preventive Medicine 26:92-101; 1997.
+Preventive Medicine 26:92-101; 1997.](https://pubmed.ncbi.nlm.nih.gov/9010903/)
 
 [Frank E Harrell Jr](mailto:fharrell@virginia.edu)
 Last modified: Fri Dec 27 16:32:05 EST 2002
