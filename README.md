@@ -24,8 +24,8 @@ and
 trial of church-based smoking cessation interventions for rural African Americans.
 Preventive Medicine 26:92-101; 1997.](https://pubmed.ncbi.nlm.nih.gov/9010903/)
 
-*[Frank E Harrell Jr](mailto:fharrell@virginia.edu)<br>
-Last modified: Fri Dec 27 16:32:05 EST 2002*
+> *[Frank E Harrell Jr](mailto:fharrell@virginia.edu)<br>
+> Last modified: Fri Dec 27 16:32:05 EST 2002*
 
 
 ## Description of variables
